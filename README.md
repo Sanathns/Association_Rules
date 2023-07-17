@@ -1,2 +1,2 @@
 # Association_Rules
-This repository contains my implementation of association rule mining algorithms
+This repository contains my implementation of association rule mining algorithms, such as Apriori or FP-Growth, as part of my data science course. The assignment demonstrates my understanding of extracting frequent itemsets and generating meaningful rules from transactional data. The code is written in Python and includes documentation to help others understand and utilize the algorithms."
